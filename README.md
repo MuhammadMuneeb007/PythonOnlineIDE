@@ -1,3 +1,5 @@
+![UseCases](UseCases.gif)
+
 # PythonOnlineIDE
 
 ## Project Description
@@ -52,9 +54,7 @@ This project integrates **Streamlit**, the **Ollama** model, and a local Python 
      streamlit run app.py
      ```
 
-### Example Use Case:
-
-![UseCases](UseCases.gif)
+ 
 
 ---
 
