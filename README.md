@@ -54,7 +54,7 @@ This project integrates **Streamlit**, the **Ollama** model, and a local Python 
 
 ### Example Use Case:
 
-![UseCases](https://github.com/user-attachments/assets/9de2c5b8-1b8f-4b6b-995b-4ac37705d046)
+![UseCases](UseCases)
 
 ---
 
