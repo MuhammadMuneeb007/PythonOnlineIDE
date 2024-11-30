@@ -37,18 +37,12 @@ This project integrates **Streamlit**, the **Ollama** model, and a local Python 
      ```bash
      conda env create -f AdvancedProgramming.yml
      ```
-
-### 3. Install Required Python Packages
    - Once the environment is created, activate the environment using:
      ```bash
      conda activate <environment-name>
      ```
-   - Install the required dependencies by running:
-     ```bash
-     pip install -r requirements.txt
-     ```
 
-### 4. Run the Application
+### 3. Run the Application
    - After all dependencies are installed, run the application using:
      ```bash
      streamlit run app.py
